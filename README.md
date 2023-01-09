@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mrityunjay-Sinha
-- 👀 I’m interested in Machine Learning an Deep Learning
+- 👀 I’m interested in Machine Learning and Deep Learning
 - 🌱 I’m currently learning Deep Learning Algorithms
 - 💞️ I’m looking to collaborate on stock prediction Projects
 - 📫 How to reach me mrityunjaysinha5@gmail.com
